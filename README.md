@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name: Sai Likitha     </h3>
-<h3>Register Number: 212224230046       </h3>
+<h3>Name: Farhana H    </h3>
+<h3>Register Number: 212223230057      </h3>
 
 <H3> Aim : </H3>
 
